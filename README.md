@@ -1,5 +1,5 @@
 # beautifulsoup_webscraping
-Web scraping with python package beautiful soup. Collect data from live website, and write into CSV files.
+This is a project that installs a python package, BeautifulSoup. BeautifulSoup scrapes data from a website. Together with the CSV writer, the data collected can be imported directly into a CSV file for further analysis usage.
 
 
 ## About this project:
